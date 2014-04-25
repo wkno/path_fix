@@ -1,0 +1,8 @@
+<?php
+
+function path_fix_pathauto_alias_alter(&$alias, array &$context) {
+// replace alias to add ampersand
+  $alias =  str_replace("%26","and", $alias );
+  $alias =  str_replace("&","and", $alias );
+  
+}

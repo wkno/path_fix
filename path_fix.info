@@ -1,0 +1,7 @@
+name = Path Fix
+description = Supports customization of path aliases for special characters.
+core = 7.x
+package = Hill Holliday Modules
+
+; Files that contain classes.
+files[] = path_fix.module
