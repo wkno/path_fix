@@ -1,6 +1,5 @@
 name = Path Fix
-description = Supports customization of path aliases for special characters.
+description = Supports customization of path aliases for special characters. By default it replaces most non-a-z European chars with a-z.
 core = 7.x
 dependencies[] = pathauto
-; Files that contain classes.
 files[] = path_fix.module
