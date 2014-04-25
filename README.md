@@ -11,4 +11,4 @@ Todo
 * Make it possible to add custom replacement patterns
 
 Inspired by this: http://roberskine.com/blog/custom-punctuation-replacement-in-drupal-7-with-the-path-module/
-Thanks for all kode snippets out there :)
+Thanks for all code snippets out there :)
