@@ -9,5 +9,5 @@ Todo
 
 * Make it integrate better with pathauto
 
-Module snatched from http://roberskine.com/blog/custom-punctuation-replacement-in-drupal-7-with-the-path-module/
-
+Inspired by this: http://roberskine.com/blog/custom-punctuation-replacement-in-drupal-7-with-the-path-module/
+Thanks for all kode snippets out there :)
