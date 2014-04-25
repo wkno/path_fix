@@ -1,8 +1,10 @@
 <?php
 
 function path_fix_pathauto_alias_alter(&$alias, array &$context) {
-// replace alias to add ampersand
-  $alias =  str_replace("%26","and", $alias );
-  $alias =  str_replace("&","and", $alias );
-  
+  $alias =  str_replace("æ","a", $alias );
+  $alias =  str_replace("ø","o", $alias );
+  $alias =  str_replace("å","a", $alias );
+  $alias =  str_replace("Æ","Æ", $alias );
+  $alias =  str_replace("Ø","Ø", $alias );
+  $alias =  str_replace("Å","Å", $alias );
 }
